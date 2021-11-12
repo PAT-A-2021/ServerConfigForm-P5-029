@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ServerConfigForm-P5-029, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2203,5): warning MSB3274: The primary reference "ServiceMtk-P1-20190140029" could not be resolved because it was built against the ".NETFramework,Version=v4.7.2" framework. This is a higher version than the currently targeted framework ".NETFramework,Version=v4.6.1".
+1>D:\Materi PAT SM.5\Project\ServerConfigForm-P5-029\ServerConfigForm-P5-029\Form1.cs(1,7,1,32): error CS0246: The type or namespace name 'ServiceMtk_P1_20190140029' could not be found (are you missing a using directive or an assembly reference?)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
